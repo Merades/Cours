@@ -204,3 +204,5 @@ for(key in obj3){
     arrZp.push(obj3[key]);
 };
 console.log(`работники ${arrName} и их зп ${arrZp}`);
+
+//nbhbhhbnbn
