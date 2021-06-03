@@ -205,4 +205,14 @@ for(key in obj3){
 };
 console.log(`работники ${arrName} и их зп ${arrZp}`);
 
-//nbhbhhbnbn
+//nbhbhhbnb
+
+
+
+// calculstаг
+
+
+
+function plus(params) {
+    let a;    
+}
