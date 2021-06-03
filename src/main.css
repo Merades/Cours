@@ -1,0 +1,11 @@
+.z1 {
+    margin: auto;
+    width: 400px;
+    background-color: gray;
+}
+
+.z2 {
+    width: 200px;
+    margin: auto;
+    padding-top: 8px;
+}
